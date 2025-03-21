@@ -21,4 +21,4 @@ Study MERN Stack on infnet bootcamp <br>
 :cat: [GitLab](https://gitlab.com/fsiq) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/felipe-siqueira-43b3291b6/) <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fsiq-dev&show_icons=true" alt="maykbrito"/></p>
+
